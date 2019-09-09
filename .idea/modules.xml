@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/homeadvisor.iml" filepath="$PROJECT_DIR$/.idea/modules/homeadvisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/homeadvisor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/homeadvisor_main.iml" group="homeadvisor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/homeadvisor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/homeadvisor_test.iml" group="homeadvisor" />
+    </modules>
+  </component>
+</project>
